@@ -1,0 +1,2 @@
+#-------starter启动配置类---------
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.leosanqing.starter.minio.MinioConfigAutoConfig

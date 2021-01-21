@@ -1,0 +1,8 @@
+leosanqing:
+  minio:
+    endpoint: http://127.0.0.1:9000
+    secretKey: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+    accessKey: AKIAIOSFODNN7EXAMPLE
+    bucketName: face
+server:
+  port: 10222
